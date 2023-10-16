@@ -1,0 +1,22 @@
+C:\Users\H2O\source\repos\İstanbul Kart Örnek Uygulama\İstanbul Kart Örnek Uygulama\bin\Debug\İstanbul Kart Örnek Uygulama.exe.config
+C:\Users\H2O\source\repos\İstanbul Kart Örnek Uygulama\İstanbul Kart Örnek Uygulama\bin\Debug\İstanbul Kart Örnek Uygulama.exe
+C:\Users\H2O\source\repos\İstanbul Kart Örnek Uygulama\İstanbul Kart Örnek Uygulama\bin\Debug\İstanbul Kart Örnek Uygulama.pdb
+C:\Users\H2O\source\repos\İstanbul Kart Örnek Uygulama\İstanbul Kart Örnek Uygulama\obj\Debug\İstanbul Kart Örnek Uygulama.csproj.AssemblyReference.cache
+C:\Users\H2O\source\repos\İstanbul Kart Örnek Uygulama\İstanbul Kart Örnek Uygulama\obj\Debug\İstanbul Kart Örnek Uygulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\H2O\source\repos\İstanbul Kart Örnek Uygulama\İstanbul Kart Örnek Uygulama\obj\Debug\İstanbul_Kart_Örnek_Uygulama.Form1.resources
+C:\Users\H2O\source\repos\İstanbul Kart Örnek Uygulama\İstanbul Kart Örnek Uygulama\obj\Debug\İstanbul_Kart_Örnek_Uygulama.Properties.Resources.resources
+C:\Users\H2O\source\repos\İstanbul Kart Örnek Uygulama\İstanbul Kart Örnek Uygulama\obj\Debug\İstanbul Kart Örnek Uygulama.csproj.GenerateResource.cache
+C:\Users\H2O\source\repos\İstanbul Kart Örnek Uygulama\İstanbul Kart Örnek Uygulama\obj\Debug\İstanbul Kart Örnek Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\H2O\source\repos\İstanbul Kart Örnek Uygulama\İstanbul Kart Örnek Uygulama\obj\Debug\İstanbul Kart Örnek Uygulama.exe
+C:\Users\H2O\source\repos\İstanbul Kart Örnek Uygulama\İstanbul Kart Örnek Uygulama\obj\Debug\İstanbul Kart Örnek Uygulama.pdb
+C:\Users\User\Downloads\istanbul-ulasim-main\İstanbul Kart Örnek Uygulama\bin\Debug\İstanbul Kart Örnek Uygulama.exe.config
+C:\Users\User\Downloads\istanbul-ulasim-main\İstanbul Kart Örnek Uygulama\bin\Debug\İstanbul Kart Örnek Uygulama.exe
+C:\Users\User\Downloads\istanbul-ulasim-main\İstanbul Kart Örnek Uygulama\bin\Debug\İstanbul Kart Örnek Uygulama.pdb
+C:\Users\User\Downloads\istanbul-ulasim-main\İstanbul Kart Örnek Uygulama\obj\Debug\İstanbul Kart Örnek Uygulama.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\istanbul-ulasim-main\İstanbul Kart Örnek Uygulama\obj\Debug\İstanbul Kart Örnek Uygulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\istanbul-ulasim-main\İstanbul Kart Örnek Uygulama\obj\Debug\İstanbul_Kart_Örnek_Uygulama.Form1.resources
+C:\Users\User\Downloads\istanbul-ulasim-main\İstanbul Kart Örnek Uygulama\obj\Debug\İstanbul_Kart_Örnek_Uygulama.Properties.Resources.resources
+C:\Users\User\Downloads\istanbul-ulasim-main\İstanbul Kart Örnek Uygulama\obj\Debug\İstanbul Kart Örnek Uygulama.csproj.GenerateResource.cache
+C:\Users\User\Downloads\istanbul-ulasim-main\İstanbul Kart Örnek Uygulama\obj\Debug\İstanbul Kart Örnek Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\istanbul-ulasim-main\İstanbul Kart Örnek Uygulama\obj\Debug\İstanbul Kart Örnek Uygulama.exe
+C:\Users\User\Downloads\istanbul-ulasim-main\İstanbul Kart Örnek Uygulama\obj\Debug\İstanbul Kart Örnek Uygulama.pdb
